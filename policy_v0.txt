@@ -1,0 +1,28 @@
+Our policy prohibits fake, manipulated, and misleading incentivized product reviews that misrepresent a reviewer's actual experience or unfairly influence customers' perceptions of a product.
+
+A review violates our policy if it falls into any of the following categories:
+
+1. Fabricated experience:
+Claiming to have used a product without actually doing so, or providing vague or meaningless descriptions that do not offer meaningful feedback on the experience of using it.
+
+The following are types of reviews that we don't allow and will remove:
+- A review containing claims about usage duration that do not match the verified purchase date, such as stating "used for 3 months" when the product was purchased two days ago.
+- AI-generated reviews unsupported by genuine experience and exaggerated results.
+- A review consisting of exaggerated praise with no specific details about the product's actual use or performance.
+
+2. Undisclosed incentives:
+Failing to disclose rewards such as money, discounts, or free products received for posting a review, or offering incentives in exchange for a specific rating or positive reviews of products never used.
+
+Reviews provided in exchange for incentives conditional on a specific rating constitute a violation, even if they acknowledge the product's shortcomings.
+
+3. Manipulated reviews:
+Artificially increasing or decreasing product ratings through coordinated reviews/review farms.
+
+4. Misleading AI-Generated Media:
+Using AI-generated or modified images and videos to misrepresent a product's appearance or performance, such as exaggerating before-and-after photos or concealing defects. The use of AI alone does not constitute a violation.
+
+5. Disguised Promotional Content:
+Disguising commercial promotion as genuine user recommendations, including posing as customers to criticize products or promote competitors, directing users to other stores, platforms, or accounts, or sharing undisclosed promotional discount codes and purchase links.
+
+Permitted Reviews:
+Reviews based on genuine experiences, including those edited with AI for clarity, are allowed. Incentivized reviews may be permitted if incentives are disclosed and are not conditional on a specific rating, subject to platform rules.

@@ -1,0 +1,27 @@
+Our policy prohibits fake, manipulated, and misleading incentivized product reviews that misrepresent a reviewer's actual experience or unfairly influence customers' perceptions of a product.
+A review violates our policy if it falls into any of the following categories:
+
+1. Fabricated experience: 
+Claiming to have used a product when available evidence contradicts that claim, or providing only praise, criticism, or unrelated personal details with no identifiable information about the product or purchase experience. Brief or broadly worded feedback is not automatically a violation.
+We define what is meaningful as:
+Meaningful feedback provides relevant information about the product or purchase experience. A basic evaluation of quality, comfort, appearance, usability, or performance is sufficient; detailed explanations are not required. Broad judgments such as "cute," "good quality," or "easy to use" alone are insufficient without explaining what makes the product useful, suitable, or effective.
+First-person wording and detailed usage context are not required. Their absence alone does not make a review vague or fabricated. Merely copying a specification list without any evaluation or purchase feedback is insufficient.
+Meaningful feedback may include a specific usage context, how the product was used, sensory observations, or outcomes. Examples include comfort, texture, fit, ease of cleaning, installation, durability, or performance. Brief feedback is permitted when it conveys a concrete observation or use outcome.
+The following are types of reviews that we don't allow and will remove:
+A review containing claims about usage duration that do not match the verified purchase date, such as stating "used for 3 months" when the product was purchased two days ago.
+AI-generated reviews unsupported by genuine experience and exaggerated results. 
+A review consisting entirely of statements such as "Amazing!" or "Terrible!" without identifying any product attribute, performance, or purchase experience. Brief evaluations such as "soft," "easy to clean," "good quality," or "works well" are permitted.
+2. Undisclosed incentives:
+Failing to disclose rewards such as money, discounts, or free products received for posting a review, or offering incentives in exchange for a specific rating or positive reviews of products never used.
+Reviews provided in exchange for incentives conditional on a specific rating constitute a violation, even if they acknowledge the product’s shortcomings. Ordinary purchase discounts are not review incentives unless tied to posting a review. Reviews that disclose or criticize sellers offering rewards for specific ratings should not be classified as violations solely for mentioning such incentives
+3. Manipulated reviews: 
+Artificially increasing or decreasing product ratings through coordinated reviews/review farms. 
+
+4. Misleading AI-Generated Media: 
+Using AI-generated or modified images and videos to misrepresent a product's appearance or performance, such as exaggerating before-and-after photos or concealing defects. The use of AI alone does not constitute a violation.
+5. Disguised Promotional Content:
+Disguising commercial promotion as genuine user recommendations, including posing as customers to criticize products or promote competitors, directing or recommending users to other stores, platforms, or accounts(especially those that are in a competitive relationship) .And sharing undisclosed promotional discount codes and purchase links. 
+Presenting commercial promotion as an independent recommendation while concealing a commercial relationship or personal benefit. Product comparisons used to promote an alternative are also violations. 
+
+Permitted Reviews:
+Genuine reviews, including those edited with AI, are allowed. Honest first impressions are allowed, as are disclosed incentives without an evidenced rating requirement. Reviews must include meaningful feedback about the product itself. Price, packaging, delivery, and seller communication may supplement product feedback but are not sufficient on their own.
